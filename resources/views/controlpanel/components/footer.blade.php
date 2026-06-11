@@ -1,7 +1,7 @@
 <footer class="main-footer">
     <div class="footer-left">
         Copyright &copy; <span id="year"></span>
-        <div class="bullet"></div> Design By <a href="https://yudri.in/">Tika Wulandari</a>
+        <div class="bullet"></div> Design By <a href="https://yudri.in/">Yudri Yani</a>
     </div>
     <div class="footer-right">
 
